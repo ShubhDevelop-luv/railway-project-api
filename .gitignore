@@ -1,2 +1,3 @@
 # Ignore unnecessary files
 railwayAPI
+.env
