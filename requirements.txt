@@ -1,4 +1,3 @@
-uvicorn
 pydantic
 python-dotenv
 passlib[bcrypt]
@@ -22,10 +21,11 @@ numpy
 soundfile
 noisereduce
 webrtcvad-wheels
-torch==1.11.0+cpu
-torchvision==0.12.0+cpu
 whisperx
 pandas
 docx
 scipy
 pyannote.audio
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cpu
