@@ -6,3 +6,8 @@ __pycache__
 *.pyo
 *.pyd
 .vscode
+*.egg-info
+*.egg
+*.log
+*.sqlite3
+*.cpython-*.pyc
