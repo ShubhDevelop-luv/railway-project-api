@@ -11,3 +11,7 @@ __pycache__
 *.log
 *.sqlite3
 *.cpython-*.pyc
+__pycache__/main.cpython-39.pyc
+__pycache__/*
+*/__pycache__/user.cpython-39.pyc
+*/__pycache__/*
