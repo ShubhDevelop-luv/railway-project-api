@@ -15,3 +15,5 @@ __pycache__/main.cpython-39.pyc
 __pycache__/*
 */__pycache__/user.cpython-39.pyc
 */__pycache__/*
+__pycache__/*.pyc
+__pycache__
